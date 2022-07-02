@@ -1,0 +1,21 @@
+1645872920106	geckodriver	INFO	Listening on 127.0.0.1:36193
+1645872920623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42511" "-no-remote" "-profile" "/tmp/rust_mozprofilek1fuYy"
+1645872921537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek1fuYy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42511/devtools/browser/177eb213-44e8-4277-9fc7-0dcd1c069c65
+1645872924479	Marionette	INFO	Listening on port 43243
+1645872924570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645873142591	geckodriver	INFO	Listening on 127.0.0.1:40481
+1645873143096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40263" "-no-remote" "-profile" "/tmp/rust_mozprofile4Xnl3u"
+1645873144005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4Xnl3u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40263/devtools/browser/257a961c-95fa-4048-abcb-1a04f95ec926
+1645873146715	Marionette	INFO	Listening on port 38523
+1645873147681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645873339966	Marionette	INFO	Stopped listening on port 38523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Gdk-Message: 15:46:01.960: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
